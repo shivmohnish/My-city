@@ -1,0 +1,22 @@
+h1 {
+    color:#091f41;
+}
+a {
+    color: #b30086 ;
+}
+div {
+    background-color:#acdef1;
+    padding: 40px 60px 40px 60px;
+    margin: 10px 20px 10px 20px;
+}
+img {
+    border-radius: 30px;
+}
+#txtcolor {
+    color:#091f41
+}
+.highlight
+{
+    color:#091f41;
+    background-color:#acdef1;
+}
