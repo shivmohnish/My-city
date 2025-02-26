@@ -7,7 +7,11 @@ a {
 div {
     background-color:#acdef1;
     padding: 40px 60px 40px 60px;
-    margin: 10px 20px 10px 20px;
+   
+}
+#divone{
+    color: blue;
+}
 }
 img {
     border-radius: 30px;
@@ -17,6 +21,6 @@ img {
 }
 .highlight
 {
-    color:#091f41;
+    color:#ed6b08;
     background-color:#acdef1;
 }
